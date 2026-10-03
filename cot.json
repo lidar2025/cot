@@ -1,29 +1,29 @@
 {
   "XAU/USD": {
-    "date": "2026-09-22",
-    "openInterest": 412800,
+    "date": "2026-09-29",
+    "openInterest": 406456,
     "commercial": {
-      "long": 17719,
-      "short": 44496,
-      "net": -26777,
-      "pct": -6
+      "long": 18200,
+      "short": 39463,
+      "net": -21263,
+      "pct": -5
     },
     "managedMoney": {
-      "long": 135699,
-      "short": 8310,
-      "net": 127389,
-      "pct": 31
+      "long": 131711,
+      "short": 11393,
+      "net": 120318,
+      "pct": 30
     },
     "swapDealers": {
-      "long": 14626,
-      "short": 250752,
-      "net": -236126,
+      "long": 14835,
+      "short": 244539,
+      "net": -229704,
       "pct": -57
     },
     "other": {
-      "long": 118283,
-      "short": 19819,
-      "net": 98464,
+      "long": 118025,
+      "short": 19711,
+      "net": 98314,
       "pct": 24
     }
   }
